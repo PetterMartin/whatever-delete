@@ -9,7 +9,7 @@ function Header() {
         <div className="container">
 
           <a className="navbar-brand" href="#">
-            Your Logo
+            My Logo
           </a>
 
           <ul className="navbar-nav mr-auto">
